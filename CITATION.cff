@@ -1,1 +1,27 @@
-
+cff-version: 1.2.0
+message: "Si utiliza este recurso, cite la siguiente referencia."
+title: "Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER)"
+authors:
+  - family-names: "Liu-Zhou"
+    given-names: "Empar-Yahui"
+    orcid: "https://orcid.org/0009-0002-1103-7565"
+version: "1.0.0"
+date-released: "2026-08-02"
+doi: ""
+url: ""
+license: "CC-BY-NC-SA-4.0"
+abstract: >-
+  Recurso educativo abierto compuesto por rúbricas de evaluación,
+  instrumentos de observación y orientaciones para la retroalimentación
+  formativa de la comunicación escrita en chino como lengua extranjera
+  en niveles A1-A2 del Marco Común Europeo de Referencia para las Lenguas.
+keywords:
+  - "evaluación escrita"
+  - "chino como lengua extranjera"
+  - "MCER"
+  - "evaluación formativa"
+  - "rúbricas"
+  - "competencia escrita"
+  - "feedback"
+  - "feedforward"
+  - "recursos educativos abiertos"
