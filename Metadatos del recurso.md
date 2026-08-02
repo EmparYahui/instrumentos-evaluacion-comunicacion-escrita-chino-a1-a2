@@ -86,7 +86,7 @@ Los instrumentos permiten recoger evidencias relacionadas con:
 
 # 8. Organización del recurso
 
-El repositorio incluye:
+El recurso incluye:
 
 - instrumentos organizados por niveles del MCER;
 - rúbricas analíticas;
