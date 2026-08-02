@@ -1,4 +1,4 @@
-# Instrumentos para la evaluación de la comunicación escrita
+# Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER)
 
 ## A1 MCER (Acceso 1)
 
