@@ -126,26 +126,6 @@ La plantilla puede utilizarse durante una actividad escrita, una tarea de intera
 
 ---
 
-## Observaciones
-
-**Evidencias relevantes:**  
-
-<br>
-
-**Dificultades observadas:**  
-
-<br>
-
-**Aspectos consolidados:**  
-
-<br>
-
-**Orientaciones para la mejora:**  
-
-<br>
-
----
-
 # Orientaciones para la retroalimentación a partir de evidencias observadas
 
 La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades iniciales en la construcción de la comunicación escrita en chino y orientar la intervención docente.
