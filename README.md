@@ -4,9 +4,9 @@
 
 # Presentación
 
-Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en **expresión escrita** en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
+Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en la **comunicación escrita** en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
 
-Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión e interacción escrita, así como mediante el análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
+Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión e interacción escritas, así como mediante el análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
 
 El conjunto está formado por:
 
