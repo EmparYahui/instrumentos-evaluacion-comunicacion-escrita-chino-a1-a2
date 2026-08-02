@@ -101,7 +101,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de comunicación escrita en chino como lengua extranjera.
 
-Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de feedback y feedforward.
+Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de *feedback* y *feedforward.*
 
 La plantilla puede utilizarse durante una actividad de comprensión escrita, una tarea de producción escrita, una interacción escrita o mediante el análisis de una producción elaborada por el alumnado.
 
@@ -165,7 +165,7 @@ La interpretación de las evidencias recogidas mediante las rúbricas permite id
 
 En este nivel, la atención se centra especialmente en la capacidad para utilizar caracteres y expresiones escritas con mayor autonomía, relacionar los elementos gráficos y léxicos dentro de mensajes breves, comprender textos sencillos con menor dependencia del apoyo contextual y desarrollar estrategias para mantener intercambios escritos básicos.
 
-| Evidencia observada | Interpretación | Feedback | Feedforward |
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
 |---|---|---|---|
 | Reconoce caracteres y palabras frecuentes, pero tiene dificultades cuando aparecen combinados en nuevos contextos | La relación entre reconocimiento grafémico y comprensión léxica todavía depende en gran medida de la familiaridad con los materiales trabajados | Reconoces caracteres y palabras conocidas, pero necesitas avanzar en su interpretación cuando aparecen en nuevos mensajes escritos. | Practica la lectura de textos breves con variaciones de vocabulario y utiliza pistas gráficas, léxicas y contextuales para construir significado. |
 | Escribe caracteres trabajados correctamente de forma aislada, pero presenta errores al utilizarlos dentro de palabras o frases | La consolidación de los caracteres todavía no se ha transferido completamente a situaciones de producción escrita funcional | Puedes escribir caracteres conocidos, pero necesitas mejorar su uso dentro de palabras y mensajes completos. | Practica la escritura de expresiones breves y revisa cómo se combinan los caracteres para formar unidades con significado. |
