@@ -7,11 +7,11 @@
 | **Título** | Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER) |
 | **Tipo de recurso** | Recurso Educativo Abierto (REA) |
 | **Autor** | Empar-Yahui Liu-Zhou |
-| **Versión** | 1.0 |
+| **Versión** | 1.0.0 |
 | **Idioma** | Español |
 | **Licencia** | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) |
 | **Repositorio** | GitHub |
-| **DOI** | Se incorporará tras el depósito del recurso en Zenodo. |
+| **DOI** | https://doi.org/10.5281/zenodo.21763589 |
 
 ---
 
@@ -122,7 +122,7 @@ La utilización del recurso permite:
 
 # 11. Palabras clave
 
-Comunicación escrita; chino como lengua extranjera; evaluación; rúbricas; MCER; CEFR; *feedback*; *feedforward*; evaluación formativa; competencia comunicativa; escritura china; *hanzi*; recursos educativos abiertos; OER.
+Comunicación escrita; chino como lengua extranjera; evaluación; rúbricas; MCER; CEFR; *feedback*; *feedforward*; evaluación formativa; competencia comunicativa; escritura china; *hanzi;* recursos educativos abiertos; OER.
 
 ---
 
@@ -144,4 +144,4 @@ La reutilización del recurso está sujeta a las condiciones establecidas por la
 
 # 14. Forma recomendada de citación
 
-Liu-Zhou, E.-Y. (2026). *Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER)* (Versión 1.0) [Recurso Educativo Abierto]. GitHub. DOI pendiente de asignación.
+Liu-Zhou, E.-Y. (2026). *Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER)* (Versión 1.0.0) [Recurso Educativo Abierto]. GitHub. https://doi.org/10.5281/zenodo.21763589
