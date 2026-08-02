@@ -4,26 +4,26 @@
 
 # Presentación
 
-Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en la **comunicación escrita** en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
+Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en comunicación escrita en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
 
-Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión e interacción escritas, así como mediante el análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
+Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión escrita, producción e interacción escrita, así como mediante el análisis de producciones elaboradas por el alumnado. Su diseño combina los descriptores de competencia comunicativa del MCER con indicadores específicos del sistema de escritura del chino, permitiendo evaluar tanto el desempeño comunicativo como los procesos implicados en la lectura y la escritura de esta lengua.
 
 El conjunto está formado por:
 
 * **tres rúbricas de análisis del desempeño escrito**:
 
-  * **Comunicación**, centrada en la comprensión lectora, la expresión escrita y la interacción escrita;
+  * **Comunicación**, centrada en el desempeño comunicativo global del alumnado en actividades de comprensión escrita, producción e interacción escrita;
   * **Producción**, centrada en los procesos de construcción del texto y en el uso del sistema de escritura del chino;
   * **Recepción**, centrada en los procesos de reconocimiento y comprensión de textos escritos;
     
 * **una plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o una actividad comunicativa;
 * **una guía de interpretación de evidencias**, orientada a la elaboración de procesos de *feedback* y *feedforward*.
 
-La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los descriptores específicos de cada nivel se encuentran en los instrumentos correspondientes (véase «Organización de los instrumentos»). Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la expresión escrita.
+La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los descriptores específicos de cada nivel se encuentran en los instrumentos correspondientes (véase «Organización de los instrumentos»). Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la comunicación escrita.
 
 ---
 
-# Progresión de la expresión escrita
+# Progresión de la comunicación escrita
 
 Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde al nivel de competencia escrita esperado y permite observar la evolución desde la adquisición de las bases de la lectura y la escritura en chino hasta una comunicación escrita básica progresivamente más autónoma.
 
@@ -55,8 +55,8 @@ Cada nivel incluye un conjunto específico de rúbricas y una plantilla de regis
 
 Los instrumentos pueden utilizarse en diferentes situaciones de evaluación y observación:
 
-* durante actividades de comprensión lectora;
-* durante tareas de expresión e interacción escrita;
+* durante actividades de comprensión escrita;
+* durante tareas de producción e interacción escrita;
 * mediante el análisis de producciones escritas elaboradas por el alumnado;
 * como herramienta de seguimiento del progreso individual.
 
@@ -129,7 +129,7 @@ Esta dimensión analiza la capacidad para reconocer, interpretar y comprender te
 
 # Reutilización del recurso
 
-Este recurso educativo abierto (REA) ha sido concebido como una referencia metodológica para el diseño de instrumentos de evaluación de la expresión escrita en chino como lengua extranjera.
+Este recurso educativo abierto (REA) ha sido concebido como una referencia metodológica para el diseño de instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera.
 
 Su estructura, la organización de las rúbricas, la plantilla de registro y el enfoque basado en evidencias pueden servir de inspiración para el desarrollo de instrumentos adaptados a otros niveles del MCER, otras lenguas meta, diferentes tareas comunicativas o distintos contextos educativos.
 
@@ -150,7 +150,7 @@ La licencia permite compartir el recurso íntegro con fines no comerciales, siem
 
 Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
 
-Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar la evolución progresiva de la expresión escrita en chino como lengua extranjera.
+Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar la evolución progresiva de la comunicación escrita en chino como lengua extranjera.
 
 ---
 
