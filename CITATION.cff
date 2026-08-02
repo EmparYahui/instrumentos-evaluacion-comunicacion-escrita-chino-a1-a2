@@ -7,6 +7,8 @@ authors:
     orcid: "https://orcid.org/0009-0002-1103-7565"
 version: "1.0.0"
 date-released: "2026-08-02"
+doi: "10.5281/zenodo.21763589"
+url: "https://doi.org/10.5281/zenodo.21763589"
 license: "CC-BY-NC-SA-4.0"
 abstract: >-
   Recurso educativo abierto compuesto por rúbricas de evaluación,
@@ -14,8 +16,8 @@ abstract: >-
   formativa de la comunicación escrita en chino como lengua extranjera
   en niveles A1-A2 del Marco Común Europeo de Referencia para las Lenguas.
   El recurso integra indicadores relacionados con la comprensión escrita,
-  la producción textual, la interacción escrita y el aprendizaje del sistema
-  de escritura chino.
+  la producción escrita, la interacción escrita y el desarrollo de la
+  competencia escrita en el sistema de escritura chino.
 keywords:
   - "evaluación escrita"
   - "chino como lengua extranjera"
