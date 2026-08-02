@@ -95,6 +95,8 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 | **Reconocimiento léxico** | Reconoce palabras y expresiones habituales en diferentes textos breves y comprende su significado dentro de situaciones comunicativas conocidas. | Reconoce vocabulario frecuente trabajado en clase, aunque puede necesitar apoyo cuando aparece en nuevos contextos escritos. | Reconoce principalmente palabras familiares o aisladas. La interpretación depende en gran medida del contexto o de modelos disponibles. | Tiene dificultades para identificar vocabulario básico incluso en textos conocidos. No consigue establecer relaciones suficientes entre la forma escrita y el significado. |
 | **Comprensión escrita** | Comprende mensajes escritos breves relacionados con situaciones habituales. Localiza información relevante e interpreta significados sencillos utilizando recursos lingüísticos y contextuales. | Comprende la idea general de textos breves y puede extraer información básica, aunque necesita apoyo puntual para interpretar algunos elementos nuevos. | Comprende información parcial del texto, pero tiene dificultades para integrar los elementos y construir el significado global del mensaje. | No consigue extraer información suficiente de textos escritos básicos. Las dificultades de reconocimiento e interpretación impiden comprender el mensaje. |
 
+---
+
 # Instrumento 3. Plantilla de registro in situ
 
 ## Finalidad
