@@ -86,9 +86,9 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de comunicación escrita en chino como lengua extranjera.
 
-Su finalidad es facilitar el registro inicial del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan interpretar posteriormente los resultados y orientar procesos de *feedback* y *feedforward*.
+Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de *feedback* y *feedforward*.
 
-La plantilla puede utilizarse durante una actividad escrita, una tarea de interacción escrita, una prueba de comprensión escrita o mediante el análisis de una producción elaborada por el alumnado.
+La plantilla puede utilizarse durante una actividad de comprensión escrita, una tarea de producción escrita, una interacción escrita o mediante el análisis de una producción elaborada por el alumnado.
 
 ---
 
@@ -114,15 +114,35 @@ La plantilla puede utilizarse durante una actividad escrita, una tarea de intera
 
 | Categoría | Indicador | A | B | C | D | Evidencias observadas |
 |---|---|---|---|---|---|---|
-| **Comunicación** | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
+| **Comunicación escrita** | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
 |  | Expresión escrita | ☐ | ☐ | ☐ | ☐ | |
 |  | Interacción escrita | ☐ | ☐ | ☐ | ☐ | |
-| **Producción** | Arquitectura gráfica del carácter | ☐ | ☐ | ☐ | ☐ | |
+| **Producción escrita** | Arquitectura gráfica del carácter | ☐ | ☐ | ☐ | ☐ | |
 |  | Construcción léxica | ☐ | ☐ | ☐ | ☐ | |
 |  | Construcción textual | ☐ | ☐ | ☐ | ☐ | |
-| **Recepción** | Reconocimiento grafémico | ☐ | ☐ | ☐ | ☐ | |
+| **Recepción escrita** | Reconocimiento grafémico | ☐ | ☐ | ☐ | ☐ | |
 |  | Reconocimiento léxico | ☐ | ☐ | ☐ | ☐ | |
 |  | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
+
+---
+
+## Observaciones
+
+**Evidencias relevantes:**  
+
+<br>
+
+**Dificultades observadas:**  
+
+<br>
+
+**Aspectos consolidados:**  
+
+<br>
+
+**Orientaciones para la mejora:**  
+
+<br>
 
 ---
 
@@ -130,7 +150,7 @@ La plantilla puede utilizarse durante una actividad escrita, una tarea de intera
 
 La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades iniciales en la construcción de la comunicación escrita en chino y orientar la intervención docente.
 
-En este nivel, la atención se centra especialmente en la consolidación de la relación entre forma gráfica y significado, la progresiva autonomía en la producción de caracteres y palabras, la construcción de mensajes escritos breves y el desarrollo de estrategias iniciales de comprensión lectora.
+En este nivel, la atención se centra especialmente en la consolidación de la relación entre forma gráfica y significado, la progresiva autonomía en la producción de caracteres y palabras, la construcción de mensajes escritos breves y el desarrollo de estrategias iniciales de comprensión escrita.
 
 Las evidencias observadas permiten proporcionar una retroalimentación específica y orientar acciones de mejora mediante procesos de *feedback* y *feedforward*.
 
