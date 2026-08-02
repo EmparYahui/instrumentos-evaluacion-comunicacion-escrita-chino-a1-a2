@@ -67,7 +67,7 @@ La plantilla de registro *in situ* permite recoger evidencias de manera rápida 
 
 La recogida de evidencias mediante las rúbricas permite identificar dificultades concretas en el desarrollo de la expresión escrita y orientar la intervención docente. La siguiente tabla organiza ejemplos de evidencias observables en cuatro dimensiones, alineadas con las rúbricas de **Producción** (arquitectura gráfica, construcción léxica y construcción textual) y de **Recepción** (comprensión escrita), junto con su posible interpretación didáctica y su transformación en orientaciones de mejora mediante retroalimentación (*feedback*) y proalimentación (*feedforward*).
 
-## Arquitectura gráfica del carácter *(rúbrica de Producción)*
+## Producción 1. Arquitectura gráfica del carácter
 
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
@@ -80,7 +80,7 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 | Confunde caracteres gráficamente semejantes | Discriminación grafémica insuficiente entre formas próximas | Reconoces la mayoría de los caracteres trabajados, pero confundes algunos pares con trazos o componentes parecidos. | Practica la comparación explícita de pares de caracteres similares, señalando el rasgo que los diferencia. |
 | Mantiene una arquitectura gráfica correcta de forma consistente | Consolidación de la forma gráfica del carácter | Reproduces el carácter con precisión, incluyendo componentes, proporción y orden de trazos. | Amplía el repertorio hacia caracteres de mayor complejidad estructural. |
 
-## Construcción léxica *(rúbrica de Producción)*
+## Producción 2. Construcción léxica
 
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
@@ -90,7 +90,7 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 | Emplea vocabulario impreciso o de registro inadecuado a la tarea | Repertorio léxico limitado o poco diversificado | El vocabulario empleado comunica la idea general, pero no es el más preciso para el contexto. | Amplía el repertorio léxico específico de la tarea antes de la próxima producción escrita. |
 | Selecciona vocabulario adecuado y recupera correctamente el carácter | Consolidación léxica y gráfica conjunta | Seleccionas el vocabulario adecuado y lo escribes con precisión. | Introduce vocabulario de mayor variedad o especificidad en producciones futuras. |
 
-## Construcción textual *(rúbrica de Producción)*
+## Porducción 3. Construcción textual
 
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
@@ -99,7 +99,7 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 | Presenta rupturas en la progresión temática | Dificultad para mantener la coherencia temática a lo largo del texto | El texto contiene ideas relevantes, pero el hilo temático se pierde en algún punto. | Antes de escribir, esquematiza brevemente la secuencia de ideas que quieres desarrollar. |
 | Mantiene la coherencia temática y enlaza frases mediante conectores | Consolidación de la producción textual | El texto mantiene una progresión temática clara y las frases están conectadas entre sí. | Introduce mayor variedad de conectores o estructuras textuales más complejas. |
 
-## Comprensión escrita *(rúbrica de Recepción)*
+## Recepción 1. Comprensión escrita
 
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
