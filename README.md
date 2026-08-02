@@ -6,7 +6,7 @@
 
 Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en **expresión escrita** en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
 
-Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión escrita, interacción escrita o análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
+Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión e interacción escrita, así como mediante el análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
 
 El conjunto está formado por:
 
@@ -68,7 +68,7 @@ La plantilla de registro *in situ* permite recoger evidencias de manera rápida 
 
 La interpretación de las evidencias recogidas mediante las rúbricas se organiza en cuatro dimensiones complementarias de observación, derivadas de los indicadores incluidos en las rúbricas de Producción y Recepción.
 
-Estas dimensiones permiten analizar tanto el desempeño comunicativo como los procesos específicos implicados en la lectura y la escritura del chino como lengua extranjera:
+Estas dimensiones permiten analizar de manera integrada el desempeño comunicativo y los procesos específicos implicados en la lectura y la escritura del chino como lengua extranjera:
 
 - Arquitectura gráfica del carácter.
 - Construcción léxica.
@@ -102,7 +102,7 @@ Esta dimensión evalúa la capacidad del estudiante para seleccionar, recuperar 
 | Emplea vocabulario impreciso o de registro inadecuado a la tarea | Repertorio léxico limitado o poco diversificado | El vocabulario empleado comunica la idea general, pero no es el más preciso para el contexto. | Amplía el repertorio léxico específico de la tarea antes de la próxima producción escrita. |
 | Selecciona vocabulario adecuado y recupera correctamente el carácter | Consolidación léxica y gráfica conjunta | Seleccionas el vocabulario adecuado y lo escribes con precisión. | Introduce vocabulario de mayor variedad o especificidad en producciones futuras. |
 
-## Porducción 3. Construcción textual
+## Producción 3. Construcción textual
 
 Esta dimensión examina la capacidad para construir textos escritos coherentes y adecuados al nivel de competencia, atendiendo a la organización de las ideas, la cohesión entre enunciados y el empleo de los recursos lingüísticos propios del nivel.
 
