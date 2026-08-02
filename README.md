@@ -170,7 +170,7 @@ La siguiente tabla ofrece ejemplos de interpretación de evidencias observables 
 # Navegación del recurso
 
 - [Metadatos del recurso](Metadatos%20del%20recurso.md)
-- [A1 (Acceso 1)](A1%20%28Acceso%201%29/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20escrita.%20A1%20%28Acceso%201%29.md)
-- [A1 (Acceso 2)](A1%20%28Acceso%202%29/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20escrita.%20A1%20%28Acceso%202%29.md)
-- [A2 (Plataforma 1)](A2%20%28Plataforma%201%29/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20escrita.%20A2%20%28Plataforma%201%29.md)
-- [A2 (Plataforma 2)](A2%20%28Plataforma%202%29/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20escrita.%20A2%20%28Plataforma%202%29.md)
+- [A1 (Acceso 1)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A1%20%28Acceso%201%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A1%20%28Acceso%201%29.md)
+- [A1 (Acceso 2)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A1%20%28Acceso%202%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A1%20%28Acceso%202%29.md)
+- [A2 (Plataforma 1)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A2%20%28Plataforma%201%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A2%20%28Plataforma%201%29.md)
+- [A2 (Plataforma 2)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A2%20%28Plataforma%202%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A2%20%28Plataforma%202%29.md)
