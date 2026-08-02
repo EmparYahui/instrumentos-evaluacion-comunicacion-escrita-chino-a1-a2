@@ -1,5 +1,7 @@
 # Instrumentos para la evaluación de la comunicación escrita en chino como lengua extranjera (A1-A2 MCER)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21763589.svg)](https://doi.org/10.5281/zenodo.21763589)
+
 ## A1 MCER (Acceso 1)
 
 Estos instrumentos están diseñados para observar y valorar el desarrollo de la competencia escrita en chino como lengua extranjera correspondiente al nivel A1 (Acceso 1) del MCER.
