@@ -15,6 +15,7 @@ El conjunto está formado por:
   * **Comunicación**, centrada en la comprensión lectora, la expresión escrita y la interacción escrita;
   * **Producción**, centrada en los procesos de construcción del texto y en el uso del sistema de escritura del chino;
   * **Recepción**, centrada en los procesos de reconocimiento y comprensión de textos escritos;
+    
 * **una plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o una actividad comunicativa;
 * **una guía de interpretación de evidencias**, orientada a la elaboración de procesos de *feedback* y *feedforward*.
 
@@ -65,9 +66,18 @@ La plantilla de registro *in situ* permite recoger evidencias de manera rápida 
 
 # De la evidencia observada a la mejora del aprendizaje
 
-La recogida de evidencias mediante las rúbricas permite identificar dificultades concretas en el desarrollo de la expresión escrita y orientar la intervención docente. La siguiente tabla organiza ejemplos de evidencias observables en cuatro dimensiones, alineadas con las rúbricas de **Producción** (arquitectura gráfica, construcción léxica y construcción textual) y de **Recepción** (comprensión escrita), junto con su posible interpretación didáctica y su transformación en orientaciones de mejora mediante retroalimentación (*feedback*) y proalimentación (*feedforward*).
+La interpretación de las evidencias recogidas mediante las rúbricas se organiza en cuatro dimensiones complementarias de observación, derivadas de los indicadores incluidos en las rúbricas de Producción y Recepción.
+
+Estas dimensiones permiten analizar tanto el desempeño comunicativo como los procesos específicos implicados en la lectura y la escritura del chino como lengua extranjera:
+
+- Arquitectura gráfica del carácter.
+- Construcción léxica.
+- Construcción textual.
+- Comprensión escrita.
 
 ## Producción 1. Arquitectura gráfica del carácter
+
+Esta dimensión analiza la precisión con la que el estudiante reproduce la estructura gráfica de los caracteres chinos, atendiendo al número, orden y dirección de los trazos, la organización espacial, la proporcionalidad entre componentes, la identificación de radicales y componentes fonéticos, el equilibrio del carácter y la discriminación entre caracteres gráficamente semejantes.
 
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
@@ -82,6 +92,8 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 
 ## Producción 2. Construcción léxica
 
+Esta dimensión evalúa la capacidad del estudiante para seleccionar, recuperar y escribir el vocabulario adecuado a la situación comunicativa, valorando tanto la consolidación de la representación gráfica de los caracteres como la precisión en el uso del léxico.
+
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
 | Recurre al pinyin cuando debía escribir en hanzi | Dependencia de la representación fonológica frente a la gráfica | Recuperas la pronunciación del carácter, pero todavía no consolidas su forma escrita. | Practica la escritura de memoria inmediatamente después de leer el carácter, sin apoyo del pinyin. |
@@ -92,6 +104,8 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 
 ## Porducción 3. Construcción textual
 
+Esta dimensión examina la capacidad para construir textos escritos coherentes y adecuados al nivel de competencia, atendiendo a la organización de las ideas, la cohesión entre enunciados y el empleo de los recursos lingüísticos propios del nivel.
+
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
 | Produce palabras aisladas o sintagmas, sin llegar a frases completas | Etapa inicial de producción textual | Produces unidades léxicas correctas, pero todavía no las integras en frases completas. | Practica la ampliación de sintagmas a frases simples con sujeto, verbo y complemento. |
@@ -100,6 +114,8 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 | Mantiene la coherencia temática y enlaza frases mediante conectores | Consolidación de la producción textual | El texto mantiene una progresión temática clara y las frases están conectadas entre sí. | Introduce mayor variedad de conectores o estructuras textuales más complejas. |
 
 ## Recepción 1. Comprensión escrita
+
+Esta dimensión analiza la capacidad para reconocer, interpretar y comprender textos escritos en chino, considerando tanto la identificación de caracteres y palabras como la extracción e interpretación de la información contenida en el texto.
 
 | Evidencia observada | Interpretación | Feedback | Feedforward |
 |---|---|---|---|
@@ -111,25 +127,22 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 
 ---
 
-# Cómo adaptar este recurso
+# Reutilización del recurso
 
-Este recurso educativo abierto (REA) ha sido diseñado para facilitar su reutilización y adaptación en diferentes contextos de enseñanza y aprendizaje de lenguas.
+Este recurso educativo abierto (REA) ha sido concebido como una referencia metodológica para el diseño de instrumentos de evaluación de la expresión escrita en chino como lengua extranjera.
 
-Las rúbricas, plantillas de registro y orientaciones para *feedback* y *feedforward* pueden servir de referencia para:
+Su estructura, la organización de las rúbricas, la plantilla de registro y el enfoque basado en evidencias pueden servir de inspiración para el desarrollo de instrumentos adaptados a otros niveles del MCER, otras lenguas meta, diferentes tareas comunicativas o distintos contextos educativos.
 
-* otros niveles del MCER;
-* otras lenguas meta;
-* diferentes tareas comunicativas o géneros textuales;
-* distintos contextos educativos y necesidades del alumnado.
-
-Al tomar este recurso como referencia, se recomienda:
+Al utilizar este recurso como referencia, se recomienda:
 
 1. mantener la coherencia entre los objetivos de aprendizaje, las evidencias recogidas y los criterios de evaluación;
 2. revisar los descriptores para asegurar su adecuación al nivel de competencia esperado;
 3. conservar la orientación formativa de los instrumentos, utilizando las evidencias para fundamentar procesos de *feedback* y *feedforward*;
-4. documentar el proceso de diseño propio inspirado en este recurso, para facilitar la trazabilidad y el reconocimiento de la fuente original.
+4. citar el recurso original como referencia metodológica cuando su estructura o planteamiento hayan servido de base para el diseño de nuevos instrumentos.
 
-Este recurso se distribuye bajo la licencia **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. Su uso está permitido con fines no comerciales, citando siempre la autoría del recurso original. La licencia no permite la distribución de obras derivadas ni modificadas de este recurso.
+Este recurso se distribuye bajo la licencia **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+La licencia permite compartir el recurso íntegro con fines no comerciales, siempre que se reconozca adecuadamente la autoría. No autoriza la distribución pública de versiones modificadas o derivadas del recurso.
 
 ---
 
