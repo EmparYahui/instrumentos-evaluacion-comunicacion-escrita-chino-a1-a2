@@ -4,7 +4,7 @@
 
 Estos instrumentos están diseñados para observar y valorar el desarrollo de la competencia escrita en chino como lengua extranjera correspondiente al nivel A1 (Acceso 1) del MCER.
 
-El conjunto incluye tres rúbricas de análisis —comunicación, producción y recepción escrita— y una plantilla de registro *in situ*. Su finalidad es facilitar la recogida sistemática de evidencias durante actividades de comprensión escrita, producción escrita, interacción escrita o mediante el análisis de producciones elaboradas por el alumnado.
+El conjunto incluye tres rúbricas de análisis —comunicación, producción y recepción escrita— y una plantilla de registro in situ. Su finalidad es facilitar la recogida sistemática de evidencias durante actividades de comprensión escrita, producción escrita, interacción escrita o mediante el análisis de producciones elaboradas por el alumnado.
 
 La valoración se realiza seleccionando el descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Las evidencias recogidas permiten fundamentar la retroalimentación y orientar futuras actuaciones de aprendizaje.
 
