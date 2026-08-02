@@ -48,7 +48,13 @@ Se centra en tres aspectos:
 - **Construcción léxica:** capacidad para seleccionar, recuperar y representar gráficamente el vocabulario adecuado a la situación comunicativa.
 - **Construcción textual:** capacidad para organizar palabras y estructuras básicas en mensajes escritos coherentes y adecuados al nivel.
 
-El docente seleccionará el descriptor que mejor represente el desempeño observado.
+El docente seleccionará el descriptor que mejor represente el desempeño observado en cada aspecto.
+
+| | A | B | C | D |
+|---|---|---|---|---|
+| **Arquitectura gráfica del carácter** | Reproduce los caracteres trabajados respetando generalmente el orden de los trazos, la organización espacial y la relación entre componentes. Los errores puntuales no afectan al reconocimiento del carácter. | Reproduce la mayoría de los caracteres trabajados, aunque presenta algunas dificultades en el orden de trazos, la proporción o la distribución de componentes. El carácter suele seguir siendo reconocible. | Reproduce parcialmente los caracteres trabajados, pero presenta dificultades frecuentes en trazos, componentes o disposición espacial. Algunos errores dificultan el reconocimiento del carácter. | Tiene dificultades para reproducir caracteres básicos incluso con apoyo. Los errores en trazos, componentes o estructura impiden reconocer gran parte de las formas escritas. |
+| **Construcción léxica** | Selecciona y escribe vocabulario adecuado a la situación comunicativa. Recupera correctamente los caracteres trabajados y utiliza expresiones básicas de forma funcional. | Utiliza vocabulario frecuente relacionado con los contenidos trabajados, aunque puede presentar dudas o errores puntuales en la selección o escritura de algunos caracteres. | Utiliza un repertorio léxico limitado y depende de modelos o apoyos para recuperar palabras y caracteres. Los errores afectan parcialmente al significado del mensaje. | Tiene dificultades para seleccionar y representar vocabulario básico. La ausencia de recursos léxicos suficientes impide transmitir el mensaje de forma funcional. |
+| **Construcción textual** | Construye frases y mensajes breves con una organización adecuada al nivel. Relaciona elementos básicos y mantiene una progresión comprensible de la información. | Produce frases sencillas relacionadas entre sí, aunque presenta limitaciones en la conexión de ideas o en el uso de algunos recursos lingüísticos. | Produce principalmente palabras, expresiones aisladas o frases poco conectadas. Necesita apoyo para organizar la información en un mensaje escrito. | No consigue organizar elementos lingüísticos básicos en un mensaje escrito comprensible. Las dificultades impiden construir una producción funcional. |
 
 ---
 
@@ -64,11 +70,27 @@ Se centra en tres aspectos:
 - **Reconocimiento léxico:** capacidad para interpretar palabras y expresiones conocidas dentro de diferentes contextos escritos.
 - **Comprensión escrita:** capacidad para extraer e interpretar información explícita e inferir significados sencillos a partir del contexto.
 
-El docente seleccionará el descriptor que mejor represente el desempeño observado.
+El docente seleccionará el descriptor que mejor represente el desempeño observado en cada aspecto.
+
+| | A | B | C | D |
+|---|---|---|---|---|
+| **Reconocimiento grafémico** | Identifica correctamente los caracteres trabajados y diferencia formas gráficas próximas. Reconoce los elementos básicos que permiten interpretar la escritura china. | Reconoce la mayoría de los caracteres trabajados, aunque puede confundir algunas formas gráficamente semejantes o necesitar apoyo puntual. | Identifica algunos caracteres conocidos, pero presenta dificultades frecuentes para diferenciar formas próximas o reconocer caracteres fuera de contextos muy familiares. | Tiene dificultades para reconocer caracteres básicos incluso con apoyo. La identificación grafémica no permite acceder al significado del texto. |
+| **Reconocimiento léxico** | Reconoce palabras y expresiones frecuentes en diferentes textos breves y comprende su significado dentro de contextos conocidos. | Reconoce vocabulario habitual trabajado en clase, aunque puede necesitar apoyo para interpretar algunas palabras dentro de nuevos contextos. | Reconoce principalmente palabras aisladas o muy familiares. La interpretación depende en gran medida del contexto o del apoyo externo. | Tiene dificultades para identificar vocabulario básico incluso en textos conocidos. No consigue establecer relaciones suficientes entre las formas escritas y su significado. |
+| **Comprensión escrita** | Comprende mensajes escritos breves relacionados con situaciones conocidas. Localiza información explícita e interpreta significados sencillos a partir del contexto. | Comprende la idea general de textos breves y localiza información relevante, aunque puede necesitar apoyo para interpretar algunos elementos. | Comprende elementos aislados del texto, pero tiene dificultades para integrar la información y construir el significado global. | No consigue extraer información suficiente de textos escritos básicos. Las dificultades de reconocimiento e interpretación impiden la comprensión del mensaje. |
 
 ---
 
-# Instrumento 3. Plantilla de registro *in situ*
+# Instrumento 3. Plantilla de registro in situ
+
+## Finalidad
+
+Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de comunicación escrita en chino como lengua extranjera.
+
+Su finalidad es facilitar el registro inicial del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan interpretar posteriormente los resultados y orientar procesos de *feedback* y *feedforward*.
+
+La plantilla puede utilizarse durante una actividad escrita, una tarea de interacción escrita, una prueba de comprensión escrita o mediante el análisis de una producción elaborada por el alumnado.
+
+---
 
 ## Datos de identificación
 
@@ -79,6 +101,48 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 **Estudiante:**  
 
 **Actividad / tarea:**  
+
+**Tipo de actividad:**  
+☐ Comprensión escrita  
+☐ Producción escrita  
+☐ Interacción escrita  
+☐ Actividad integrada de comunicación escrita  
+
+---
+
+## Registro de evidencias
+
+| Categoría | Indicador | A | B | C | D | Evidencias observadas |
+|---|---|---|---|---|---|---|
+| **Comunicación** | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
+|  | Expresión escrita | ☐ | ☐ | ☐ | ☐ | |
+|  | Interacción escrita | ☐ | ☐ | ☐ | ☐ | |
+| **Producción** | Arquitectura gráfica del carácter | ☐ | ☐ | ☐ | ☐ | |
+|  | Construcción léxica | ☐ | ☐ | ☐ | ☐ | |
+|  | Construcción textual | ☐ | ☐ | ☐ | ☐ | |
+| **Recepción** | Reconocimiento grafémico | ☐ | ☐ | ☐ | ☐ | |
+|  | Reconocimiento léxico | ☐ | ☐ | ☐ | ☐ | |
+|  | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
+
+---
+
+## Observaciones
+
+**Evidencias relevantes:**  
+
+<br>
+
+**Dificultades observadas:**  
+
+<br>
+
+**Aspectos consolidados:**  
+
+<br>
+
+**Orientaciones para la mejora:**  
+
+<br>
 
 ---
 
