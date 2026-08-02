@@ -146,32 +146,6 @@ La plantilla puede utilizarse durante una actividad escrita, una tarea de intera
 
 ---
 
-## Registro de evidencias
-
-La plantilla permite registrar de forma rápida el desempeño observado durante una actividad comunicativa escrita o mediante el análisis posterior de una producción del alumnado.
-
-El docente seleccionará el nivel de desempeño correspondiente a cada indicador y podrá completar las observaciones necesarias para fundamentar la evaluación.
-
----
-
-## Observaciones
-
-**Evidencias relevantes:**  
-
-<br>
-
-**Errores recurrentes:**  
-
-<br>
-
-**Aspectos destacados:**  
-
-<br>
-
-**Orientaciones para mejora:**  
-
----
-
 # Orientaciones para la retroalimentación a partir de evidencias observadas
 
 La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades iniciales en la construcción de la comunicación escrita en chino y orientar la intervención docente.
