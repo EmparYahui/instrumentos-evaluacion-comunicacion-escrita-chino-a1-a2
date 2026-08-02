@@ -9,7 +9,7 @@
 | **Autor** | Empar-Yahui Liu-Zhou |
 | **Versión** | 1.0 |
 | **Idioma** | Español |
-| **Licencia** | Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) |
+| **Licencia** | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) |
 | **Repositorio** | GitHub |
 | **DOI** | Se incorporará tras el depósito del recurso en Zenodo. |
 
@@ -138,7 +138,7 @@ El recurso puede utilizarse como referencia metodológica para el diseño de ins
 
 Se recomienda mantener la coherencia entre objetivos, evidencias y criterios de evaluación, así como citar el recurso original cuando su estructura o planteamiento metodológico sirvan de referencia.
 
-La reutilización del recurso está sujeta a las condiciones establecidas por la licencia CC BY-NC-ND 4.0.
+La reutilización del recurso está sujeta a las condiciones establecidas por la licencia CC BY-NC-SA 4.0.
 
 ---
 
