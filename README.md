@@ -41,10 +41,10 @@ Cada nivel incluye un conjunto específico de rúbricas y una plantilla de regis
 
 | Nivel MCER | Instrumento |
 |---|---|
-| *A1 (Acceso 1)* | [Instrumentos para la evaluación de la comunicación escrita. A1 (Acceso 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%201).md) |
-| *A1 (Acceso 2)* | [Instrumentos para la evaluación de la expresión escrita. A1 (Acceso 2)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%202).md) |
-| *A2 (Plataforma 1)* | [Instrumentos para la evaluación de la expresión escrita. A2 (Plataforma 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A2%20(Plataforma%201).md) |
-| *A2 (Plataforma 2)* | [Instrumentos para la evaluación de la expresión escrita. A2 (Plataforma 2)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A2%20(Plataforma%202).md) |
+| *A1 (Acceso 1)* | [Instrumentos para la evaluación de la comunicación escrita. A1 (Acceso 1)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A1%20%28Acceso%201%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A1%20%28Acceso%201%29.md) |
+| *A1 (Acceso 2)* | [Instrumentos para la evaluación de la comunicación escrita. A1 (Acceso 2)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A1%20%28Acceso%202%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A1%20%28Acceso%202%29.md) |
+| *A2 (Plataforma 1)* | [Instrumentos para la evaluación de la comunicación escrita. A2 (Plataforma 1)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A2%20%28Plataforma%201%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A2%20%28Plataforma%201%29.md) |
+| *A2 (Plataforma 2)* | [Instrumentos para la evaluación de la comunicación escrita. A2 (Plataforma 2)](Instrumentos%20de%20evaluaci%C3%B3n%20escrita/A2%20%28Plataforma%202%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20comunicaci%C3%B3n%20escrita.%20A2%20%28Plataforma%202%29.md) |
 
 ---
 
