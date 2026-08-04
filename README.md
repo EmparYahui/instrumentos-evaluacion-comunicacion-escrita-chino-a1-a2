@@ -2,168 +2,113 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21763589.svg)](https://doi.org/10.5281/zenodo.21763589)
 
-## A1 MCER (Acceso 1)
 
-Estos instrumentos están diseñados para observar y valorar el desarrollo de la competencia escrita en chino como lengua extranjera correspondiente al nivel A1 (Acceso 1) del MCER.
+## Presentación
 
-El conjunto incluye tres rúbricas de análisis —comunicación, producción y recepción escrita— y una plantilla de registro in situ. Su finalidad es facilitar la recogida sistemática de evidencias durante actividades de comprensión escrita, producción escrita, interacción escrita o mediante el análisis de producciones elaboradas por el alumnado.
+Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en expresión escrita en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
 
-La valoración se realiza seleccionando el descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Las evidencias recogidas permiten fundamentar la retroalimentación y orientar futuras actuaciones de aprendizaje.
+Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión escrita, interacción escrita o análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
 
----
+El conjunto está formado por:
 
-# Instrumento 1. Rúbrica de análisis comunicativo de la comunicación escrita
+- tres **rúbricas de análisis** del desempeño escrito:
+  - **Comunicación**, centrada en la comprensión lectora, la expresión escrita y la interacción escrita;
+  - **Producción**, centrada en los procesos de construcción del texto y en el uso del sistema de escritura del chino;
+  - **Recepción**, centrada en los procesos de reconocimiento y comprensión de textos escritos;
+- una **plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o actividad comunicativa;
+- una **guía de interpretación de evidencias** orientada a la elaboración de *feedback* y *feedforward*.
 
-## Finalidad
-
-Esta rúbrica permite analizar el desempeño comunicativo global del alumnado en chino como lengua extranjera en un nivel inicial.
-
-Se centra en tres dimensiones:
-
-- **Comprensión escrita:** capacidad para reconocer, interpretar y extraer información de textos escritos breves relacionados con situaciones conocidas.
-- **Expresión escrita:** capacidad para producir mensajes escritos sencillos utilizando los recursos lingüísticos y gráficos disponibles.
-- **Interacción escrita:** capacidad para participar en intercambios escritos breves mediante la comprensión del mensaje recibido y la elaboración de una respuesta adecuada al contexto comunicativo.
-
-El docente seleccionará el descriptor que mejor represente el desempeño observado en cada dimensión.
-
-La rúbrica de Comunicación ofrece una valoración global del uso funcional de la lengua escrita. Los procesos específicos implicados en la comprensión de textos y en la producción escrita se analizan posteriormente mediante las rúbricas de Recepción y Producción.
-
-La interacción escrita se valora mediante esta rúbrica, ya que constituye una actividad comunicativa que integra procesos de comprensión y producción en una secuencia adecuada al contexto y al interlocutor. En este nivel inicial, no se desarrolla una rúbrica analítica independiente de interacción, dado que los procesos específicos observables se encuentran vinculados a la recepción del mensaje y a la elaboración de la respuesta escrita.
-
-| | A | B | C | D |
-|---|---|---|---|---|
-| **Comprensión escrita** | Reconoce palabras, expresiones y mensajes escritos muy básicos relacionados con situaciones conocidas. Comprende información explícita cuando el texto utiliza vocabulario trabajado y cuenta con apoyos visuales o contextuales. | Reconoce palabras y expresiones frecuentes en textos breves. Comprende la idea general del mensaje, aunque puede necesitar apoyo puntual para interpretar algunos elementos. | Identifica algunos elementos conocidos del texto, pero necesita ayuda frecuente para comprender el significado global del mensaje. La interpretación depende en gran medida del apoyo visual o del contexto. | Tiene dificultades para reconocer palabras y expresiones básicas incluso con apoyo. No consigue extraer información suficiente del texto para responder a la situación comunicativa. |
-| **Expresión escrita** | Produce palabras, expresiones y frases breves para transmitir información personal o relacionada con situaciones conocidas. Utiliza caracteres y estructuras básicas de forma comprensible, aunque pueda presentar errores propios del nivel. | Produce mensajes escritos sencillos relacionados con los contenidos trabajados. Utiliza vocabulario y estructuras conocidas, aunque muestra dudas o necesita tiempo para recuperar algunos recursos lingüísticos. | Produce elementos aislados, expresiones memorizadas o mensajes muy breves con apoyo. Las dificultades en el uso de caracteres, vocabulario o estructuras afectan parcialmente a la comprensión del mensaje. | No consigue producir mensajes escritos básicos de forma funcional. Los errores en caracteres, vocabulario o estructuras impiden transmitir la información necesaria. |
-| **Interacción escrita** | Participa en intercambios escritos breves, comprende mensajes sencillos y responde de forma adecuada utilizando expresiones conocidas. Mantiene la comunicación dentro de situaciones previstas. | Participa en intercambios escritos sencillos, aunque necesita apoyo ocasional para interpretar el mensaje recibido o elaborar la respuesta. | Participa de forma limitada en intercambios escritos y depende frecuentemente de modelos o ayuda externa para comprender o responder al interlocutor. | No consigue mantener un intercambio escrito básico. Las dificultades de comprensión o producción impiden responder de forma funcional al mensaje recibido. |
+La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la expresión escrita.
 
 ---
 
-# Instrumento 2a. Rúbrica de análisis de la producción escrita
+## Progresión de la expresión escrita
 
-## Finalidad
+Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde al nivel de competencia escrita esperado y permite observar la evolución desde la adquisición de las bases de la lectura y la escritura en chino hasta una comunicación escrita básica progresivamente más autónoma.
 
-Esta rúbrica permite analizar los aspectos específicos relacionados con la producción escrita en chino como lengua extranjera en un nivel inicial.
-
-Se centra en tres aspectos:
-
-- **Arquitectura gráfica del carácter:** precisión en la reproducción de los caracteres chinos atendiendo a trazos, componentes y organización espacial.
-- **Construcción léxica:** capacidad para seleccionar, recuperar y representar gráficamente el vocabulario adecuado a la situación comunicativa.
-- **Construcción textual:** capacidad para organizar palabras y estructuras básicas en mensajes escritos coherentes y adecuados al nivel.
-
-El docente seleccionará el descriptor que mejor represente el desempeño observado en cada aspecto.
-
-| | A | B | C | D |
-|---|---|---|---|---|
-| **Arquitectura gráfica del carácter** | Reproduce los caracteres trabajados respetando generalmente el orden de los trazos, la organización espacial y la relación entre componentes. Los errores puntuales no afectan al reconocimiento del carácter. | Reproduce la mayoría de los caracteres trabajados, aunque presenta algunas dificultades en el orden de trazos, la proporción o la distribución de componentes. El carácter suele seguir siendo reconocible. | Reproduce parcialmente los caracteres trabajados, pero presenta dificultades frecuentes en trazos, componentes o disposición espacial. Algunos errores dificultan el reconocimiento del carácter. | Tiene dificultades para reproducir caracteres básicos incluso con apoyo. Los errores en trazos, componentes o estructura impiden reconocer gran parte de las formas escritas. |
-| **Construcción léxica** | Selecciona y escribe vocabulario adecuado a la situación comunicativa. Recupera correctamente los caracteres trabajados y utiliza expresiones básicas de forma funcional. | Utiliza vocabulario frecuente relacionado con los contenidos trabajados, aunque puede presentar dudas o errores puntuales en la selección o escritura de algunos caracteres. | Utiliza un repertorio léxico limitado y depende de modelos o apoyos para recuperar palabras y caracteres. Los errores afectan parcialmente al significado del mensaje. | Tiene dificultades para seleccionar y representar vocabulario básico. La ausencia de recursos léxicos suficientes impide transmitir el mensaje de forma funcional. |
-| **Construcción textual** | Construye frases y mensajes breves con una organización adecuada al nivel. Relaciona elementos básicos y mantiene una progresión comprensible de la información. | Produce frases sencillas relacionadas entre sí, aunque presenta limitaciones en la conexión de ideas o en el uso de algunos recursos lingüísticos. | Produce principalmente palabras, expresiones aisladas o frases poco conectadas. Necesita apoyo para organizar la información en un mensaje escrito. | No consigue organizar elementos lingüísticos básicos en un mensaje escrito comprensible. Las dificultades impiden construir una producción funcional. |
+| Nivel MCER | Foco de competencia escrita esperado | Principales aspectos observables |
+|---|---|---|
+| *A1<br>(Acceso 1)* | Construcción de las bases de la lectura y la escritura en chino | Reconocimiento inicial de caracteres y palabras frecuentes; producción de palabras, expresiones y frases breves; fuerte dependencia de modelos escritos. |
+| *A1<br>(Acceso 2)* | Consolidación de los recursos básicos de lectura y escritura | Mayor precisión en el uso de caracteres y estructuras; producción de textos breves más cohesionados; comprensión de mensajes escritos habituales con menor apoyo. |
+| *A2<br>(Plataforma 1)* | Ampliación de los recursos lingüísticos y desarrollo de la autonomía escrita | Producción de textos funcionales más extensos; mayor variedad léxica y sintáctica; comprensión de textos breves menos dependientes del contexto inmediato. |
+| *A2<br>(Plataforma 2)* | Desarrollo de una comunicación escrita más autónoma y flexible | Producción de textos sencillos con mayor fluidez y capacidad de revisión; comprensión de una mayor diversidad de textos escritos de uso frecuente. |
 
 ---
 
-# Instrumento 2b. Rúbrica de análisis de la recepción escrita
+# Organización de los instrumentos
 
-## Finalidad
+Cada nivel incluye un conjunto específico de rúbricas y una plantilla de registro adaptada al desarrollo esperado:
 
-Esta rúbrica permite valorar la capacidad inicial del estudiante para reconocer, interpretar y comprender mensajes escritos en chino como lengua extranjera.
-
-Se centra en tres aspectos:
-
-- **Reconocimiento grafémico:** capacidad para identificar caracteres y diferenciar formas escritas próximas.
-- **Reconocimiento léxico:** capacidad para interpretar palabras y expresiones conocidas dentro de diferentes contextos escritos.
-- **Comprensión escrita:** capacidad para extraer e interpretar información explícita e inferir significados sencillos a partir del contexto.
-
-El docente seleccionará el descriptor que mejor represente el desempeño observado en cada aspecto.
-
-| | A | B | C | D |
-|---|---|---|---|---|
-| **Reconocimiento grafémico** | Identifica correctamente los caracteres trabajados y diferencia formas gráficas próximas. Reconoce los elementos básicos que permiten interpretar la escritura china. | Reconoce la mayoría de los caracteres trabajados, aunque puede confundir algunas formas gráficamente semejantes o necesitar apoyo puntual. | Identifica algunos caracteres conocidos, pero presenta dificultades frecuentes para diferenciar formas próximas o reconocer caracteres fuera de contextos muy familiares. | Tiene dificultades para reconocer caracteres básicos incluso con apoyo. La identificación grafémica no permite acceder al significado del texto. |
-| **Reconocimiento léxico** | Reconoce palabras y expresiones frecuentes en diferentes textos breves y comprende su significado dentro de contextos conocidos. | Reconoce vocabulario habitual trabajado en clase, aunque puede necesitar apoyo para interpretar algunas palabras dentro de nuevos contextos. | Reconoce principalmente palabras aisladas o muy familiares. La interpretación depende en gran medida del contexto o del apoyo externo. | Tiene dificultades para identificar vocabulario básico incluso en textos conocidos. No consigue establecer relaciones suficientes entre las formas escritas y su significado. |
-| **Comprensión escrita** | Comprende mensajes escritos breves relacionados con situaciones conocidas. Localiza información explícita e interpreta significados sencillos a partir del contexto. | Comprende la idea general de textos breves y localiza información relevante, aunque puede necesitar apoyo para interpretar algunos elementos. | Comprende elementos aislados del texto, pero tiene dificultades para integrar la información y construir el significado global. | No consigue extraer información suficiente de textos escritos básicos. Las dificultades de reconocimiento e interpretación impiden la comprensión del mensaje. |
+| Nivel MCER | Instrumento |
+|---|---|
+| *A1 (Acceso 1)* | [Instrumentos para la evaluación de la expresión escrita. A1 (Acceso 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%201).md) |
+| *A1 (Acceso 2)* | [Instrumentos para la evaluación de la expresión escrita. A1 (Acceso 2)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%202).md) |
+| *A2 (Plataforma 1)* | [Instrumentos para la evaluación de la expresión escrita. A2 (Plataforma 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A2%20(Plataforma%201).md) |
+| *A2 (Plataforma 2)* | [Instrumentos para la evaluación de la expresión escrita. A2 (Plataforma 2)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A2%20(Plataforma%202).md) |
 
 ---
 
-# Instrumento 3. Plantilla de registro in situ
+# Uso de los instrumentos
 
-## Finalidad
+Los instrumentos pueden utilizarse en diferentes situaciones de evaluación y observación:
 
-Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de comunicación escrita en chino como lengua extranjera.
+- durante actividades de comprensión lectora;
+- durante tareas de expresión escrita e interacción escrita;
+- mediante el análisis posterior de producciones escritas;
+- como herramienta de seguimiento del progreso individual.
 
-Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de *feedback* y *feedforward*.
-
-La plantilla puede utilizarse durante una actividad de comprensión escrita, una tarea de producción escrita, una interacción escrita o mediante el análisis de una producción elaborada por el alumnado.
-
----
-
-## Datos de identificación
-
-**Fecha:**  
-
-**Hora:**  
-
-**Estudiante:**  
-
-**Actividad / tarea:**  
-
-**Tipo de actividad:**  
-☐ Comprensión escrita  
-☐ Producción escrita  
-☐ Interacción escrita  
-☐ Actividad integrada de comunicación escrita  
+La plantilla de registro *in situ* permite recoger evidencias de manera rápida mediante la selección del desempeño observado en cada indicador. Posteriormente, las rúbricas completas permiten interpretar esas evidencias y fundamentar las decisiones de evaluación.
 
 ---
 
-## Registro de evidencias
+# De la evidencia observada a la mejora del aprendizaje
 
-| Categoría | Indicador | A | B | C | D | Evidencias observadas |
-|---|---|---|---|---|---|---|
-| **Comunicación escrita** | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
-|  | Expresión escrita | ☐ | ☐ | ☐ | ☐ | |
-|  | Interacción escrita | ☐ | ☐ | ☐ | ☐ | |
-| **Producción escrita** | Arquitectura gráfica del carácter | ☐ | ☐ | ☐ | ☐ | |
-|  | Construcción léxica | ☐ | ☐ | ☐ | ☐ | |
-|  | Construcción textual | ☐ | ☐ | ☐ | ☐ | |
-| **Recepción escrita** | Reconocimiento grafémico | ☐ | ☐ | ☐ | ☐ | |
-|  | Reconocimiento léxico | ☐ | ☐ | ☐ | ☐ | |
-|  | Comprensión escrita | ☐ | ☐ | ☐ | ☐ | |
+La recogida de evidencias mediante las rúbricas permite identificar dificultades concretas en la expresión escrita y orientar la intervención docente. La siguiente tabla muestra ejemplos generales de interpretación de evidencias observables y de transformación de dichas evidencias en orientaciones de mejora mediante retroalimentación (*feedback*) y proalimentación (*feedforward*).
 
----
-
-## Observaciones
-
-**Evidencias relevantes:**  
-
-<br>
-
-**Dificultades observadas:**  
-
-<br>
-
-**Aspectos consolidados:**  
-
-<br>
-
-**Orientaciones para la mejora:**  
-
-<br>
-
----
-
-# Orientaciones para la retroalimentación a partir de evidencias observadas
-
-La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades iniciales en la construcción de la comunicación escrita en chino y orientar la intervención docente.
-
-En este nivel, la atención se centra especialmente en la consolidación de la relación entre forma gráfica y significado, la progresiva autonomía en la producción de caracteres y palabras, la construcción de mensajes escritos breves y el desarrollo de estrategias iniciales de comprensión lectora.
-
-La siguiente tabla ofrece ejemplos de interpretación de evidencias observables y posibles orientaciones de *feedback* y *feedforward*. El docente podrá adaptarlas al contexto de la actividad y a las necesidades específicas del alumnado.
-
-| Evidencia observada | Interpretación | Feedback | Feedforward |
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
 |---|---|---|---|
-| Reconoce algunos caracteres aislados, pero tiene dificultades para interpretar palabras o mensajes breves | La relación entre la forma gráfica del carácter y su significado todavía no está consolidada en contextos comunicativos | Reconoces algunos caracteres trabajados, pero necesitas avanzar en la identificación de su significado dentro de palabras y mensajes completos. | Practica la lectura de palabras y expresiones breves en diferentes contextos, relacionando caracteres, pronunciación y significado. |
-| Reproduce caracteres conocidos, pero presenta dificultades en trazos, componentes u organización espacial | El conocimiento de la estructura gráfica del carácter chino está en proceso de consolidación | Puedes escribir algunos caracteres conocidos, pero necesitas prestar más atención a sus componentes y organización interna. | Practica la escritura de caracteres agrupados por componentes comunes y revisa el orden de los trazos mediante modelos visuales. |
-| Utiliza vocabulario conocido, pero depende de modelos para recuperar caracteres o expresiones escritas | La autonomía en la recuperación léxica todavía es limitada y requiere mayor consolidación del repertorio trabajado | Utilizas palabras conocidas, pero necesitas ganar seguridad para recuperarlas y escribirlas sin apoyo constante. | Realiza actividades de recuperación progresiva de vocabulario mediante escritura guiada, clasificación léxica y producción de mensajes breves. |
-| Produce palabras o expresiones aisladas, pero tiene dificultades para construir mensajes escritos completos | La organización textual y la conexión entre elementos lingüísticos básicos todavía están en desarrollo | Puedes producir elementos escritos conocidos, pero necesitas aprender a combinarlos para transmitir mensajes completos. | Practica la construcción de frases breves utilizando modelos que permitan modificar progresivamente información personal o contextual. |
-| Comprende información explícita en textos conocidos, pero tiene dificultades cuando cambia el contexto o aparecen elementos nuevos | La comprensión escrita depende todavía de la familiaridad del vocabulario y del apoyo contextual | Comprendes textos trabajados, pero necesitas desarrollar estrategias para interpretar nuevos mensajes escritos. | Lee textos breves con variaciones de vocabulario y utiliza pistas visuales, léxicas y contextuales para construir significado. |
-| Participa en intercambios escritos muy guiados, pero necesita apoyo para elaborar respuestas propias | La interacción escrita inicial depende todavía de modelos comunicativos disponibles | Puedes responder en situaciones conocidas, pero necesitas avanzar hacia respuestas más autónomas. | Practica intercambios breves modificando progresivamente expresiones aprendidas y adaptándolas a diferentes interlocutores o situaciones. |
+| Omite trazos o altera de forma sistemática el orden convencional de escritura de los caracteres | Consolidación insuficiente de la arquitectura gráfica del carácter | Reproduces parte de la estructura del carácter, pero todavía necesitas afianzar la secuencia y organización de los trazos. | Practica la escritura siguiendo el orden convencional y verifica cada carácter antes de incorporarlo a nuevas producciones. |
+| Recurre al *pinyin* o mezcla distintos sistemas de escritura cuando la tarea requiere escribir en **hanzi** | Dependencia de la representación fonológica frente a la representación gráfica | Recuperas la pronunciación de las palabras, pero todavía necesitas consolidar su escritura mediante caracteres chinos. | Practica la escritura de palabras completas en **hanzi** inmediatamente después de leerlas, sin apoyo del *pinyin*. |
+| Produce frases comprensibles, pero con escasa cohesión o sin conectores | Desarrollo inicial de la competencia textual | El contenido resulta comprensible, aunque las ideas todavía aparecen poco conectadas entre sí. | Incorpora progresivamente conectores básicos y revisa la organización del texto antes de finalizar la tarea. |
+| Comprende la información principal de un texto breve, pero presenta dificultades para interpretar detalles o información implícita | Desarrollo parcial de estrategias de comprensión escrita | Comprendes el significado general del texto, pero todavía necesitas prestar mayor atención a algunos elementos relevantes. | Practica la lectura de textos breves identificando primero las palabras clave y realizando una segunda lectura para localizar información específica. |
+
+---
+
+# Reutilización de este recurso
+
+Este recurso educativo abierto (REA) ha sido diseñado para facilitar su reutilización y adaptación en diferentes contextos de enseñanza y aprendizaje de lenguas.
+
+Las rúbricas, plantillas de registro y orientaciones para *feedback* y *feedforward* pueden servir de referencia para:
+
+- otros niveles del MCER;
+- otras lenguas meta;
+- diferentes tareas comunicativas o géneros textuales;
+- distintos contextos educativos y necesidades del alumnado.
+
+Al tomar este recurso como referencia, se recomienda:
+
+1. mantener la coherencia entre los objetivos de aprendizaje, las evidencias recogidas y los criterios de evaluación;
+2. revisar los descriptores para asegurar su adecuación al nivel de competencia esperado;
+3. conservar la orientación formativa de los instrumentos, utilizando las evidencias para fundamentar procesos de *feedback* y *feedforward*;
+4. documentar el proceso de diseño propio inspirado en este recurso, para facilitar la trazabilidad y el reconocimiento de la fuente original.
+
+Este recurso se distribuye bajo la licencia **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. Su uso está permitido con fines no comerciales, citando siempre la autoría del recurso original. La licencia no permite la distribución de obras derivadas ni modificadas de este recurso.
+
+---
+
+# Consideraciones finales
+
+Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
+
+Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar la evolución progresiva de la expresión escrita en chino como lengua extranjera.
+
+---
+
+# Información adicional
+
+Para consultar los metadatos completos del recurso, incluyendo información sobre autoría, descripción, destinatarios, competencias, palabras clave, forma de citación y licencia, véase:
+
+[Metadatos del recurso](./Metadatos%20del%20recurso.md)
 
 ---
 
