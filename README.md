@@ -5,7 +5,7 @@
 
 ## Presentación
 
-Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en expresión escrita en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
+Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desarrollo de la comunicación escrita en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del Marco Común Europeo de Referencia para las Lenguas, MCER).
 
 Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de comprensión lectora, expresión escrita, interacción escrita o análisis de producciones elaboradas por el alumnado. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos específicos del sistema de escritura del chino.
 
@@ -18,13 +18,13 @@ El conjunto está formado por:
 - una **plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o actividad comunicativa;
 - una **guía de interpretación de evidencias** orientada a la elaboración de *feedback* y *feedforward*.
 
-La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la expresión escrita.
+La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la comunicación escrita.
 
 ---
 
-## Progresión de la expresión escrita
+## Progresión de la comunicación escrita
 
-Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde al nivel de competencia escrita esperado y permite observar la evolución desde la adquisición de las bases de la lectura y la escritura en chino hasta una comunicación escrita básica progresivamente más autónoma.
+Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de instrumentos responde al nivel de desarrollo esperado de la comunicación escrita y permite observar la evolución desde la adquisición de las bases de la lectura y la escritura en chino hasta una comunicación escrita progresivamente más autónoma.
 
 | Nivel MCER | Foco de competencia escrita esperado | Principales aspectos observables |
 |---|---|---|
@@ -41,7 +41,7 @@ Cada nivel incluye un conjunto específico de rúbricas y una plantilla de regis
 
 | Nivel MCER | Instrumento |
 |---|---|
-| *A1 (Acceso 1)* | [Instrumentos para la evaluación de la expresión escrita. A1 (Acceso 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%201).md) |
+| *A1 (Acceso 1)* | [Instrumentos para la evaluación de la comunicación escrita. A1 (Acceso 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%201).md) |
 | *A1 (Acceso 2)* | [Instrumentos para la evaluación de la expresión escrita. A1 (Acceso 2)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A1%20(Acceso%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A1%20(Acceso%202).md) |
 | *A2 (Plataforma 1)* | [Instrumentos para la evaluación de la expresión escrita. A2 (Plataforma 1)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A2%20(Plataforma%201).md) |
 | *A2 (Plataforma 2)* | [Instrumentos para la evaluación de la expresión escrita. A2 (Plataforma 2)](./Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita/A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20expresión%20escrita.%20A2%20(Plataforma%202).md) |
@@ -52,9 +52,10 @@ Cada nivel incluye un conjunto específico de rúbricas y una plantilla de regis
 
 Los instrumentos pueden utilizarse en diferentes situaciones de evaluación y observación:
 
-- durante actividades de comprensión lectora;
-- durante tareas de expresión escrita e interacción escrita;
-- mediante el análisis posterior de producciones escritas;
+- durante actividades de comprensión escrita;
+- durante tareas de producción escrita;
+- durante actividades de interacción escrita;
+- mediante el análisis posterior de producciones elaboradas por el alumnado;
 - como herramienta de seguimiento del progreso individual.
 
 La plantilla de registro *in situ* permite recoger evidencias de manera rápida mediante la selección del desempeño observado en cada indicador. Posteriormente, las rúbricas completas permiten interpretar esas evidencias y fundamentar las decisiones de evaluación.
